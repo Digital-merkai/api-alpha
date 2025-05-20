@@ -1,7 +1,3 @@
-<p align="center">
-<img style="align:center;" src="resources/logo.png" alt="merkai Logo" width="100"/>
-<h1 align="center">merkai</h1>
-</p>
 
 **[Quickstart](#Quickstart)** |
 **[Documentation](https://github.com/merkai/merkai-api-alpha/tree/doc/readme-feature/API)** |
